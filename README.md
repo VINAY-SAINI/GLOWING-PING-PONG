@@ -20,7 +20,7 @@ Welcome to the Ping Pong Game repository! This is a simple yet entertaining game
 ## How to Play
 
 1. **Download the Game:**
-   - You can download the game from [this link](https://vinay-saini.itch.io/pin).
+   - You can Play the game on [this link](https://vinay-saini.itch.io/pin).
 
 2. **Launch the Game:**
    - Open the game executable after downloading.
